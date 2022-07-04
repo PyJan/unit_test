@@ -7,5 +7,5 @@ def test_sum2():
 
 if __name__ == '__main__':
     test_sum()
-    test_sum2
+    test_sum2()
     print('job finished')
